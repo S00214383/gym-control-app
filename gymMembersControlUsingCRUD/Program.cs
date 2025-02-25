@@ -13,7 +13,7 @@ namespace gymMembersControlUsingCRUD
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
 
-            //adding some comments
+            //adding some comments to try github
         }
     }
 }
